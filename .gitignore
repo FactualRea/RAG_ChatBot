@@ -1,3 +1,4 @@
 .env
 .venv
 docs/
+rag-chatbot/
